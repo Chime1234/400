@@ -1,0 +1,25 @@
+section#top-nav, .socials-top{
+	background-color: #333333;
+	color: #fff;
+	padding: 5px;
+}
+section#main-nav, nav.bg-grey{
+	background-color: #454545;
+}
+a.active{
+	background-color: #000;
+	border-radius: 20px 60px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+section#heading{
+	background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(../imgs/bg.jpg);
+	height: 50vh;
+	padding-top: 15vh;
+}
+section#end{
+	background-color: #EBE9E5;
+}
+section#end p{
+	color: #C9C7C5;
+}
